@@ -12,14 +12,14 @@ My goal is to build strong practical experience in cybersecurity and develop int
 | Skill | Associated Project |
 |-----------------------------------------------|-----------------------------------------------|
 | Linux Command Line & File Enumeration | <a href="https://github.com/IvzCyberSec/LinuxFundamentals">Linux Fundamentals</a> |
-| SSH & Remote Linux Access | <a href="https://github.com/IvzCyberSec/LinuxFundamentals/bandit">OverTheWire Bandit</a> |
-| Text Filtering & Linux Pipelines | <a href="https://github.com/IvzCyberSec/LinuxFundamentals/bandit">OverTheWire Bandit</a> |
-| File Analysis & Binary Inspection | <a href="https://github.com/IvzCyberSec/LinuxFundamentals/bandit">OverTheWire Bandit</a> |
+| SSH & Remote Linux Access | <a href="https://github.com/IvzCyberSec/LinuxFundamentals/tree/main/bandit">OverTheWire Bandit</a> |
+| Text Filtering & Linux Pipelines | <a href="https://github.com/IvzCyberSec/LinuxFundamentals/tree/main/bandit">OverTheWire Bandit</a> |
+| File Analysis & Binary Inspection | <a href="https://github.com/IvzCyberSec/LinuxFundamentals/tree/main/bandit">OverTheWire Bandit</a> |
 | Networking Fundamentals | CCNA Coursework & Packet Tracer Labs |
 | Network Traffic Analysis | Wireshark Labs |
 | Network Enumeration & Service Discovery | Nmap Scanning Practice |
 | Python Fundamentals & Problem Solving | Python Teaching Materials |
-| Base64 Decoding & Data Processing | <a href="https://github.com/IvzCyberSec/LinuxFundamentals/bandit">OverTheWire Bandit</a> |
+| Base64 Decoding & Data Processing | <a href="https://github.com/IvzCyberSec/LinuxFundamentals/tree/main/bandit">OverTheWire Bandit</a> |
 | Responsible Security Research & Disclosure | Web Security Investigation Experience |
 
 ## Tools
