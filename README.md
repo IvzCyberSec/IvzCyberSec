@@ -1,5 +1,5 @@
 # Hello, I'm Ivan
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://uk.linkedin.com/in/ivan-k-036007387"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a second-year Cyber Security student at Birmingham City University with a strong interest in technology, cybersecurity, and problem solving. I enjoy developing practical technical skills through hands-on labs, Linux environments, and cybersecurity projects.
 
@@ -11,15 +11,15 @@ My goal is to build strong practical experience in cybersecurity and develop int
 
 | Skill | Associated Project |
 |-----------------------------------------------|-----------------------------------------------|
-| Linux Command Line & File Enumeration | <a href="https://github.com/lvzCyberSec/LinuxFundamentals">Linux Fundamentals</a> |
-| SSH & Remote Linux Access | <a href="https://github.com/lvzCyberSec/LinuxFundamentals">OverTheWire Bandit</a> |
-| Text Filtering & Linux Pipelines | <a href="https://github.com/lvzCyberSec/LinuxFundamentals">OverTheWire Bandit</a> |
-| File Analysis & Binary Inspection | <a href="https://github.com/lvzCyberSec/LinuxFundamentals">OverTheWire Bandit</a> |
+| Linux Command Line & File Enumeration | <a href="https://github.com/IvzCyberSec/LinuxFundamentals">Linux Fundamentals</a> |
+| SSH & Remote Linux Access | <a href="https://github.com/IvzCyberSec/LinuxFundamentals/bandit">OverTheWire Bandit</a> |
+| Text Filtering & Linux Pipelines | <a href="https://github.com/IvzCyberSec/LinuxFundamentals/bandit">OverTheWire Bandit</a> |
+| File Analysis & Binary Inspection | <a href="https://github.com/IvzCyberSec/LinuxFundamentals/bandit">OverTheWire Bandit</a> |
 | Networking Fundamentals | CCNA Coursework & Packet Tracer Labs |
 | Network Traffic Analysis | Wireshark Labs |
 | Network Enumeration & Service Discovery | Nmap Scanning Practice |
 | Python Fundamentals & Problem Solving | Python Teaching Materials |
-| Base64 Decoding & Data Processing | <a href="https://github.com/lvzCyberSec/LinuxFundamentals">OverTheWire Bandit</a> |
+| Base64 Decoding & Data Processing | <a href="https://github.com/IvzCyberSec/LinuxFundamentals/bandit">OverTheWire Bandit</a> |
 | Responsible Security Research & Disclosure | Web Security Investigation Experience |
 
 ## Tools
