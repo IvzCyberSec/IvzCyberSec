@@ -8,7 +8,7 @@ I enjoy developing practical technical skills through hands-on labs, home lab en
 
 ## Objective
 
-My goal is to develop into a Security Operations Centre SOC Analyst or Security Engineer.
+My goal is to develop into a Security Operations Centre SOC Analyst or Penetration Tester.
 
 I am currently focused on strengthening my practical skills across Linux, networking, system administration, security monitoring, network enumeration, penetration testing, and security investigation.
 
